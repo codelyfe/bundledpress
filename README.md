@@ -22,3 +22,6 @@ Plugin List (FREE):
 
 ## #1 RSS Feed Generator.
 6. https://wordpress.org/plugins/1337-rss-feed-made-for-sharing/
+
+## Contact Form 7
+7. https://wordpress.org/plugins/contact-form-7/
