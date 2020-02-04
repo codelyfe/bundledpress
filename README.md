@@ -1,4 +1,7 @@
 # bundledpress
+
+Deploy your website FASTER + SAFER than before. NO BLOT or SPAM (100% Guaranteed)
+
 WordPress + Selected Plugins + Themes for Users Best Performance + Enhancements 
 
 WordPress 5.3.2 
@@ -25,3 +28,14 @@ Plugin List (FREE):
 
 ## Contact Form 7
 7. https://wordpress.org/plugins/contact-form-7/
+
+## Firewall + Security
+8. https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/
+
+Theme List (FREE):
+
+## WordPress Default Twenty Twenty Theme
+1. Already part of WordPress (Able to Remove)
+
+## GT Ambition
+2. https://germanthemes.de/en/themes/gt-ambition/
