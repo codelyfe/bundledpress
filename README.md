@@ -32,6 +32,9 @@ Plugin List (FREE):
 ## Firewall + Security
 8. https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/
 
+## CoBlocks by GoDaddy
+9. https://coblocks.com/
+
 Theme List (FREE):
 
 ## WordPress Default Twenty Twenty Theme
@@ -39,3 +42,9 @@ Theme List (FREE):
 
 ## GT Ambition
 2. https://germanthemes.de/en/themes/gt-ambition/
+
+## Buzz Agency (FREE Version) Still has most features one would need to get a page going.
+3. https://aarambhathemes.com/downloads/buzz-agency/
+
+## Go by GoDaddy Themees (Highly Scalable)
+4. https://www.godaddy.com/wordpress-themes
